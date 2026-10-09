@@ -1,4 +1,4 @@
-![Sovereign Hardened](https://arom-one.vercel.app/api/badge/sovereign-verified.svg)
+
 [![ANVIL Sentinel](https://github.com/adi6206096675/ANVIL/actions/workflows/anvil-sec.yml/badge.svg)](https://github.com/adi6206096675/ANVIL/actions/workflows/anvil-sec.yml)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--5219--9849-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5219-9849)
 [![Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=b9puZVQAAAAJ&authuser=1)
